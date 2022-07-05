@@ -108,6 +108,15 @@ body{
     .secondover {
         visibility: hidden;
     }
+    
+    .search {
+        width:450px;
+    }
+    
+    .main-container {
+        margin:200px auto;
+    
+    }
 }
  
  
